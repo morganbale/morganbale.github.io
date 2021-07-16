@@ -1,8 +1,7 @@
 ---
 title: "Legally Anonymizing Personal Data: An Application to South Korean COVID-19 Location Data"
 collection: Research
-permalink: /publication/working-paper-Legally-Anonymizing-Personal-Data
-excerpt:
+permalink: /research/working-paper-Legally-Anonymizing-Personal-Data
 paperurl: 'http://cdbale.github.io/files/working-paper-Legally-Anonymizing-Personal-Data.pdf'
 citation: 'Bale, C. D., Fischer, J. L., Schneider, M. J., & Weber, S. (2021). &quot;Legally Anonymizing Personal Data: An Application to South Korean COVID-19 Location Data.&quot; <i>Working Paper</i>.'
 ---
