@@ -11,32 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Operations and Business Analytics, Drexel University, 2024 (expected)
+* B.S. in Economics, Brigham Young University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr. 2018 - Aug. 2019: Research Assistant
+  * Brigham Young University
+  * Advisor: [Dr. Jeff Dotson](https://marriott.byu.edu/directory/details?id=33658)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, R, C
+* Deep Learning Libraries
+  * PyTorch
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,6 +45,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentoring first year Ph.D. student - Jade Zhang, 2021 - Present
+* Drexel Teaching Assistant Orientation Panelist, 2021
