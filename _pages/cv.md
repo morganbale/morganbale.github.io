@@ -20,11 +20,11 @@ Work experience
   * Brigham Young University
   * Advisor: [Dr. Jeff Dotson](https://marriott.byu.edu/directory/details?id=33658)
   
-Skills
+Technical Skills
 ======
 * Programming Languages
   * Python, R, C
-* Deep Learning Libraries
+* Machine Learning Frameworks
   * PyTorch
 
 Research
