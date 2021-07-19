@@ -4,12 +4,13 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/STAT201
 venue: "Drexel University, Decision Sciences"
-location: "Philadelphia, PA"
+location: "Philadelphia, USA"
 ---
 
-Description.
+Undergraduate introductory course to business statistics. Covers topics such as probability, statistical inference, and regression.
 
 ## Terms Taught
+Summer 2020, Summer 2021
 
 ## Ratings (out of 4.00)
 NA
