@@ -9,7 +9,7 @@ location: "Philadelphia, PA"
 
 Description.
 
-### Terms Taught
+## Terms Taught
 
-### Ratings (out of 4.00)
+## Ratings (out of 4.00)
 NA
