@@ -2,7 +2,7 @@
 title: "Protecting the Anonymity of Online Users through Bayesian Data Synthesis"
 collection: research
 permalink: /research/Protecting-Anonymity-Bayesian-Data-Synthesis
-paperurl: 'http://cdbale.github.io/files/ProtectingtheAnonymityofOnlineUsersthroughBayesianDataSynthesis.pdf'
+paperurl: 'http://cdbale.github.io/files/Protecting-the-Anonymity-of-Online-Users-through-Bayesian-Data-Synthesis.pdf'
 citation: 'Schneider, M., Hu, J., Mankad, S., & Bale, C.D. (2021). &quot;Protecting the anonymity of online users through bayesian data synthesis.&quot; <i>Working Paper</i>.'
 ---
  
@@ -21,4 +21,4 @@ taining much of the textual content present in the structured covariates. These
 findings encourage UGC platforms that wish to be known for consumer privacy
 to protect anonymity of their online users."
 
-[Download paper here](http://cdbale.github.io/files/ProtectingtheAnonymityofOnlineUsersthroughBayesianDataSynthesis.pdf)
+[Download paper here](http://cdbale.github.io/files/Protecting-the-Anonymity-of-Online-Users-through-Bayesian-Data-Synthesis.pdf)
