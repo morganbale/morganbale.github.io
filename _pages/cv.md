@@ -56,5 +56,5 @@ Service and Leadership
 
 Honors and Awards
 ======
-* Dragon Doctoral Fellowship, Drexel University, 2019 - 2023
+* Dragon Doctoral Fellowship, Drexel University, 2019 - 2024
 * Teaching Assistant Excellence Award, Drexel University, 2020 - 2021
