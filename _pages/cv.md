@@ -51,7 +51,7 @@ Teaching
   
 Service and Leadership
 ======
-* Mentoring first year Ph.D. student - Jade Zhang, 2021 - Present
+* Mentoring first year Ph.D. student, 2021 - Present
 * Drexel Teaching Assistant Orientation Panelist, 2021
 
 Honors and Awards
