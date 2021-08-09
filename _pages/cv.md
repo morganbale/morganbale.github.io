@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here.](https://cdbale.github.io//cv/)
+
 Education
 ======
 * Ph.D. in Operations and Business Analytics, Drexel University, 2024 (expected)
