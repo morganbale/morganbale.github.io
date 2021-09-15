@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cameron Bale, a second year Ph.D. student in the Decision Sciences department at Drexel University, Philadelphia, PA. I have a broad background with training in economics, statistics, optimization, and computer science. I am a passionate researcher who loves to code, listen to music, lift weights, spend time outdoors, and relax with my wife and daughter.
+I'm Cameron Bale, a third year Ph.D. student in the Decision Sciences department at Drexel University, Philadelphia, PA. I have a broad background with training in economics, statistics, optimization, and computer science. I am a passionate researcher who loves to code, listen to music, lift weights, spend time outdoors, and relax with my wife and daughter.
 
 ## Research
 
