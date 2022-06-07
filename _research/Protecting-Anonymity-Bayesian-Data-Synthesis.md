@@ -2,7 +2,7 @@
 title: "Protecting the Anonymity of Online Users through Bayesian Data Synthesis"
 collection: research
 permalink: /research/Protecting-Anonymity-Bayesian-Data-Synthesis
-paperurl: 'http://cdbale.github.io/files/Protecting-the-Anonymity-of-Online-Users-through-Bayesian-Data-Synthesis.pdf'
+paperurl: 'http://cdbale.github.io/files/Protecting_Anonymity_Users_Bayesian_Data_Synthesis.pdf'
 citation: 'Schneider, M., Hu, J., Mankad, S., & Bale, C.D. (2021). &quot;Protecting the anonymity of online users through bayesian data synthesis.&quot; <i>Working Paper</i>.'
 ---
  
