@@ -1,7 +1,7 @@
 ---
 title: "Legally Anonymous Sequential Synthesis of Location Data"
 collection: research
-permalink: /research/synthesizer-anonymized-location-data
+permalink: /research/2-synthesizer-anonymized-location-data
 paperurl: 'http://cdbale.github.io/files/Legally_Anonymous_Sequential_Synthesis.pdf'
 citation: 'Bale, C. D. (2023). &quot;Legally Anonymous Sequential Synthesis of Location Data.&quot; <i>Working Paper</i>.'
 ---
