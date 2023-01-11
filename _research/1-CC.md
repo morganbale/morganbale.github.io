@@ -1,7 +1,7 @@
 ---
 title: "Does Category Captainship Work?"
 collection: research
-permalink: /research/CC
+permalink: /research/1-CC
 paperurl: 'https://github.com/marcdotson/category-captainship'
 citation: '&quot;Does Category Captainship Work?,&quot; Jeffrey P. Dotson, Yasin Alan, Mumin Kurtulus, Marc Dotson, Morgan Bale, and Cameron Bale. <i>Work in Progress</i>.'
 ---
