@@ -1,7 +1,7 @@
 ---
 title: "Protecting the Anonymity of Online Users through Bayesian Data Synthesis"
 collection: research
-permalink: /research/Protecting-Anonymity-Bayesian-Data-Synthesis
+permalink: /research/4-Protecting-Anonymity-Bayesian-Data-Synthesis
 paperurl: 'http://cdbale.github.io/files/2023-ProtectingAnonymityOnlineUsersBayesianDataSynthesis.pdf'
 citation: 'Schneider, M. J., Hu, J., Mankad, S., & Bale, C. D. (2023). Protecting the anonymity of online users through Bayesian data synthesis. Expert Systems with Applications, 216, 119409.'
 ---
