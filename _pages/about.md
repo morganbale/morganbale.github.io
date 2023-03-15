@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Morgan Rhodes Bale, a fourth year Ph.D. student in Quantitative Marketing at Drexel University. I enjoy researching consumers, brands, and retailers using quantitative methods (e.g. Bayesian Statistics). I grew up in West Palm Beach, FL so I love the sunshine and going to the beach. I have two daughters who keep me busy! 
+Welcome! I'm Morgan, a fourth year Ph.D. student in Quantitative Marketing at Drexel University. I enjoy researching consumers, brands, and retailers using quantitative methods (e.g. Bayesian Statistics). I grew up in West Palm Beach, FL so I love the sunshine and going to the beach. I have two daughters who keep me busy! 
 
 ## Research
 
