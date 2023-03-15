@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cameron Bale"
+title                    : "Morgan Bale"
 title_separator          : "-"
-name                     : &name "Cameron Bale"
+name                     : &name "Morgan Bale"
 description              : &description "personal description"
-url                      : https://cdbale.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://morganbale.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cdbale/cdbale.github.io"
+repository               : "morganbale/morganbale.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cameron Bale"
-  avatar           : "Cameron-Bale.jpg"
-  bio              : "Operations and Business Analytics Ph.D. student at Drexel University. Proud husband and father."
+  name             : "Morgan Bale"
+  avatar           : "DSC02248.jpeg"
+  bio              : "Quantitative Marketing Ph.D. student at Drexel University"
   location         : "Philadelphia, PA, USA"
   employer         : "Drexel University"
   pubmed           : 
   googlescholar    : 
-  email            : "cdb327@drexel.edu"
+  email            : "mab825@drexel.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cdbale"
+  github           : "morganbale"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "cameron-bale"
+  linkedin         : "morgan-rhodes-bale-137b82102"
   orcid            :
   pinterest        :
   soundcloud       :
