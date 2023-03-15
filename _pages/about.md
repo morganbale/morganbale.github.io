@@ -8,22 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cameron Bale, a fourth year Ph.D. student in the Decision Sciences department at Drexel University, Philadelphia, PA. I have a broad background with training in economics, statistics, optimization, and computer science. I am a passionate researcher who loves to code, listen to music, lift weights, spend time outdoors, and relax with my wife and daughter.
+Welcome! I'm Morgan Rhodes Bale, a fourth year Ph.D. student in Quantitative Marketing at Drexel University. I enjoy researching consumers, brands, and retailers using quantitative methods (e.g. Bayesian Statistics). I grew up in West Palm Beach, FL so I love the sunshine and going to the beach. I have two daughters who keep me busy! 
 
 ## Research
 
-My research interests lie at the intersection of data privacy, statistics, machine learning, and the law. In general, I study and develop data anonymization methods that preserve data subjects' anonymity without severe reductions in data utility. My goal is to help business maintain the utility of their data for its intended use case(s) while improving privacy for data subjects.
+My research interests are both substantive and methodological. I research the relationships between consumers, brands, and retailers, although I am also interested in advertising and digital marketing. I specialize in using consumer panel and grocery sales data. Methodologically, I use causal inference to understand the world, my current focus is synthetic control methods, Bayesian statistics, Differences in Differences, and Gaussian copulas. 
 
 My coauthors and I recently published a paper in *Expert Systems with Applications* in which we protect the identities of the authors of online reviews by generating synthetic attributes (e.g., location and rating) to accompany their posts.
 
-I also have several working papers, most of which are related to data privacy. The first takes an empirical approach to examining the effects of privacy protection on the accuracy of popular forecasting models. We also propose a novel matrix-based privacy method which swaps the values of time series with similar features (e.g., strength of trend and seasonality), and offers a much better privacy-utility trade-off than existing privacy methods (e.g., differential privacy) for forecasting.
+In my dissertation, "Measuring the Interrelationships between Consumers, Brands, and Retailers using Bayesian Models", I study three topics. The first project introduces a novel model for measuring dynamic brand equity, capturing the relationship between consumers and brands. My second project studies empirical category captainship across multiple grocery product categories to understand how store and category characteristics influence the success of this category management technique. Finally, the goal of my third project (very early stages) is to provide firms with a novel measurement of consumer loyalty at the retailer level using their readily available sales data. More detail on these projects is provided under "Research" tab above. 
 
-Two other papers are focused at the intersection of data privacy legislation and privacy methods. The [first](https://cdbale.github.io//research/working-paper-Legally-Anonymizing-Personal-Data) is a multi-disciplinary effort proposing a framework to assess the robustness of anonymization methods for location data from a legal perspective. The goal of this work is to help companies and organizations know how to legally anonymize their data while maintaining its usefulness for its intended purpose. The focus of the second [paper](https://cdbale.github.io//research/synthesizer-anonymized-location-data) is a data synthesis method which generates privacy-preserving synthetic point process data that is legally anonymous. Both of these papers aim to help organizations navigate complex privacy legislation using anonymization.
-
-My final [paper](https://cdbale.github.io//research/CC) is in another research area entirely and is a continuation of my RA work as an undergraduate student. We are examining the effects of [Category Captainship](https://www.dotactiv.com/blog/what-is-a-category-captain) for various retail product categories. Our results will have important implications for ongoing collaboration between retailers and product manufacturers in determining product assortment, product display layout, and ongoing relationships between the retailer and other category partners.
-
-I am advised by [Dr. Matthew Schneider](https://www.lebow.drexel.edu/people/matthewschneider), whose feedback has been instrumental in guiding my research.
+I am advised by [Dr. Elea Feit](https://www.lebow.drexel.edu/people/eleafeit), whose feedback and support has been instrumental in guiding me through the Ph.D.
 
 ## Background
 
-I received a B.S. in Economics with a minor in Statistics from Brigham Young University Provo in 2019. During my time there, I worked with [Dr. Jeff Dotson](https://marriott.byu.edu/directory/details?id=33658) on the previously mentioned Category Captainship project. I began my Ph.D. training at Drexel in August of 2019.
+I received a B.S. in Economics from Brigham Young University Provo in 2017. During my time there, I worked with [Dr. Jeff Dotson](https://marriott.byu.edu/directory/details?id=33658) on the previously mentioned Category Captainship project. Following my undergraduate education at BYU, I received a M.S. in Economics from Purdue University in 2019 (online program). I began my Ph.D. training at Drexel in August of 2019.
