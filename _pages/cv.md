@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here.](http://cdbale.github.io/files/Cameron_Bale_cv.pdf)
+[Download CV here.](http://cdbale.github.io/files/Morgan_Bale_CV.pdf)
 
 Education
 ======
