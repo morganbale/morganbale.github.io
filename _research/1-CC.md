@@ -1,5 +1,5 @@
 ---
-title: "Does Category Captainship Work?"
+title: "An Empirical Generalization of the Effects of Category Captainship"
 collection: research
 permalink: /research/1-CC
 paperurl: 'https://github.com/marcdotson/category-captainship'
