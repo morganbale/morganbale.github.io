@@ -13,8 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Operations and Business Analytics, Drexel University, 2024 (expected)
-* B.S. in Economics, Brigham Young University, 2019
+* Ph.D. in Marketing, Drexel University, 2024 (expected)
+* M.S. in Economics, Purdue University, 2019
+* B.S. in Economics, Brigham Young University, 2017
 
 Work experience
 ======
@@ -25,9 +26,7 @@ Work experience
 Technical Skills
 ======
 * Programming Languages
-  * Python, R, C
-* Machine Learning Frameworks
-  * PyTorch
+  * R, Python, Stan
 
 Research
 ======
@@ -49,13 +48,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and Leadership
+Presentations
 ======
-* Mentoring first year Ph.D. student, 2021 - Present
-* Drexel Teaching Assistant Orientation Panelist, 2021
-* Drexel Ph.D. Orientation Panelist, 2021
+* A Bayesian Dynamic Linear Model for Brand Equity-Marketing Science Conference, June 2022 and June 2023
+* A Bayesian Dynamic Linear Model for Brand Equity-Ivited Talk at Brigham Young University, March 2023
 
 Honors and Awards
 ======
-* Dragon Doctoral Fellowship, Drexel University, 2019 - 2024
-* Teaching Assistant Excellence Award, Drexel University, 2020 - 2021
+* Dragon Doctoral Fellowship, Drexel University, 2019 - present
