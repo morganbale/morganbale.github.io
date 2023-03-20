@@ -51,7 +51,7 @@ Teaching
 Presentations
 ======
 * A Bayesian Dynamic Linear Model for Brand Equity-Marketing Science Conference, June 2022 and June 2023
-* A Bayesian Dynamic Linear Model for Brand Equity-Ivited Talk at Brigham Young University, March 2023
+* A Bayesian Dynamic Linear Model for Brand Equity-Invited Talk at Brigham Young University, March 2023
 
 Honors and Awards
 ======
