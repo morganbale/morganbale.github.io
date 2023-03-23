@@ -1,7 +1,7 @@
 ---
 title: 'Bayesian Synthetic Control Methods Example'
 date: 2023-03-23
-permalink: /posts/2023/03/blog-post-2/
+permalink: /posts/2023/03/BSCM-Example/
 tags:
   - cool posts
   - category1
@@ -12,7 +12,7 @@ In this post, I test the Bayesian Synthetic Control Model presented in Kim et al
 
 Bayesian Synthetic Control Methods Slides
 ======
-
+[Download slides here.](http://morganbale.github.io/files/BSC.pdf)
 
 Bayesian Synthetic Control Methods Example in R
 ======
