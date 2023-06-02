@@ -56,3 +56,5 @@ Presentations
 Honors and Awards
 ======
 * Dragon Doctoral Fellowship, Drexel University, 2019 - present
+* Outstanding Ph.D. Student Instructor Award, Winter 2023
+* Teck-Kah Lim Graduate Student Domestic Travel Subsidy Award, Spring 2023
